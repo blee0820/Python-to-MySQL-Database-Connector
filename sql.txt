@@ -1,0 +1,6 @@
+/*
+SQL query goes here.
+
+Each data retrieved by the SELECT statement
+will be a key, value pair in the form of a dictionary.
+*/
